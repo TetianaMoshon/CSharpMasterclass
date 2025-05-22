@@ -1,0 +1,14 @@
+C:\Projects\csharp\C#_masterclass\CookiesCookbook\bin\Debug\net9.0\CookiesCookbook.exe
+C:\Projects\csharp\C#_masterclass\CookiesCookbook\bin\Debug\net9.0\CookiesCookbook.deps.json
+C:\Projects\csharp\C#_masterclass\CookiesCookbook\bin\Debug\net9.0\CookiesCookbook.runtimeconfig.json
+C:\Projects\csharp\C#_masterclass\CookiesCookbook\bin\Debug\net9.0\CookiesCookbook.dll
+C:\Projects\csharp\C#_masterclass\CookiesCookbook\bin\Debug\net9.0\CookiesCookbook.pdb
+C:\Projects\csharp\C#_masterclass\CookiesCookbook\obj\Debug\net9.0\CookiesCookbook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\csharp\C#_masterclass\CookiesCookbook\obj\Debug\net9.0\CookiesCookbook.AssemblyInfoInputs.cache
+C:\Projects\csharp\C#_masterclass\CookiesCookbook\obj\Debug\net9.0\CookiesCookbook.AssemblyInfo.cs
+C:\Projects\csharp\C#_masterclass\CookiesCookbook\obj\Debug\net9.0\CookiesCookbook.csproj.CoreCompileInputs.cache
+C:\Projects\csharp\C#_masterclass\CookiesCookbook\obj\Debug\net9.0\CookiesCookbook.dll
+C:\Projects\csharp\C#_masterclass\CookiesCookbook\obj\Debug\net9.0\refint\CookiesCookbook.dll
+C:\Projects\csharp\C#_masterclass\CookiesCookbook\obj\Debug\net9.0\CookiesCookbook.pdb
+C:\Projects\csharp\C#_masterclass\CookiesCookbook\obj\Debug\net9.0\CookiesCookbook.genruntimeconfig.cache
+C:\Projects\csharp\C#_masterclass\CookiesCookbook\obj\Debug\net9.0\ref\CookiesCookbook.dll
